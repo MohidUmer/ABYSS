@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ABYSS Specific - Reports and Generated Evidence
+reports/
+reports_temp/
+
+# Screenshots and Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+screenshots/
+*.screenshot
+*.Screenshot
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+*.temp
+*.log
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+reports/temp/
+
+# Metadata
+.metadata_signature.bin

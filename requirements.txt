@@ -1,0 +1,10 @@
+pandas
+customtkinter
+matplotlib
+numpy
+seaborn
+wordcloud
+tldextract
+psutil
+pyvista
+pillow
